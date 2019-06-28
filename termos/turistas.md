@@ -4,7 +4,7 @@
 
 **1.1** Este TERMO se aplica para regular o uso do serviço oferecido pelo Trivelum aos TURISTAS, qual seja, possibilitar a escolha, pelos TURISTAS, de AGÊNCIAS cadastradas e, via on-line, efetivar solicitações para aquisição (e busca em domicílio caso necessário) de passeios e viagens fornecidas pelas AGÊNCIAS, de acordo com o disponibilizado, sendo possível, igualmente, aos TURISTAS, a efetivação do pagamento do preço dos ingressos via on-line.
 
-**1.2** O serviço do Trivelum consiste, portanto, em aproximar, através do nosso aplicativo e site, os TURISTAS e as AGÊNCIAS cadastradas, possibilitando que os TURISTAS encaminhem, às AGÊNCIAS, compra de ingressos de passeios e viagens, bem como, sendo essa a opção dos TURISTAS, receber on-line pagamento do preço dos ingressos comprados pelos TURISTAS às AGÊNCIAS.
+**1.2** O serviço do Trivelum consiste, portanto, em aproximar, através do nosso aplicativo e site, os TURISTAS e as AGÊNCIAS cadastradas, possibilitando que os TURISTAS encaminhem, às AGÊNCIAS, compra de ingressos de passeios e viagens, bem como, sendo essa a opção das AGÊNCIAS, receber on-line pagamento do preço dos ingressos comprados pelos TURISTAS às AGÊNCIAS.
 
 **1.3** Desde logo fica esclarecido ao TURISTA - o qual se declara ciente - que o serviço oferecido pelo Trivelum se relaciona apenas à intermediação (com opção de pagamento on-line) para comercialização de passeios e viagens, não abarcando busca, disponibilização e entrega física (via correios ou outros meios) dos passeios e viagens, sendo esses três itens de responsabilidade integral da AGÊNCIA, a quem deverão ser direcionados quaisquer reclamações acerca dos problemas decorrentes.
 
