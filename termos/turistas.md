@@ -6,7 +6,7 @@
 
 **1.2** O serviço do Trivelum consiste, portanto, em aproximar, através do nosso aplicativo e site, os TURISTAS e as AGÊNCIAS cadastradas, possibilitando que os TURISTAS encaminhem, às AGÊNCIAS, compra de ingressos de passeios e viagens, bem como, sendo essa a opção dos TURISTAS, receber on-line pagamento do preço dos ingressos comprados pelos TURISTAS às AGÊNCIAS.
 
-**1.3** Desde logo fica esclarecido ao TURISTA - o qual se declara ciente - que o serviço oferecido pelo Trivelum se relaciona apenas à intermediação (com opção de pagamento on-line) para comercialização de passeios e viagens, não abarcando busca, disponibilização e entrega física (via correios ou outros meios) dos passeios e viagens, sendo esses três itens de responsabilidade integral da AGÊNCIA, a quem deverão ser direcionados quaisquer reclamos acerca dos problemas decorrentes.
+**1.3** Desde logo fica esclarecido ao TURISTA - o qual se declara ciente - que o serviço oferecido pelo Trivelum se relaciona apenas à intermediação (com opção de pagamento on-line) para comercialização de passeios e viagens, não abarcando busca, disponibilização e entrega física (via correios ou outros meios) dos passeios e viagens, sendo esses três itens de responsabilidade integral da AGÊNCIA, a quem deverão ser direcionados quaisquer reclamações acerca dos problemas decorrentes.
 
 # 2. CADASTRO
 
@@ -49,3 +49,9 @@
 # 7. ACEITAÇÃO DO TERMO DE USO
 
 **7.1** O TURISTA declara ter lido, entendido e que aceita todas as regras, condições e obrigações estabelecidas no presente TERMO.
+
+# 8. CANCELAMENTO
+
+**8.1** O TURISTA pode solicitar cancelamento em até 7 (SETE) dias após a compra através do e-mail **suporte@trivelum.com**. Caso a data inicial do passeio ou da viagem seja antes do fim dos 7 dias será impossibilitada a solicitação do cancelamento e estorno após a data e hora de ínicio.
+
+**8.2** Após os 7 (SETE) dias após a compra ou o início do passeio ou viagem somente será aprovado o cancelamento se for comprovada alguma inadimplência por parte da AGÊNCIA.
