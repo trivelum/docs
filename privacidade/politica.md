@@ -129,3 +129,42 @@ O compartilhamento de dados com empresas do Grupo do Trivelum terá como finalid
 
 No caso de operações societárias, como reestruturação, fusão ou venda de ativos do Trivelum, do grupo econômico ou de parte dele, seus dados poderão ser transferidos, desde que respeitados os termos desta política de privacidade.
 
+#### **Provedores de serviços e outros parceiros**
+
+Por razões de processamento e inteligência em relação aos dados do Trivelum, poderemos também compartilhar informações com algumas empresas ou indivíduos prestadores de serviço ou empresas parceiras do Trivelum. Nesse caso, os dados serão tratados de forma a proteger a sua privacidade, tendo essas empresas dever de proteção compatível com o da política de privacidade do Trivelum.
+
+Nós podemos utilizar os serviços dessas empresas para facilitar nosso serviço, prover o serviço do Trivelum em nosso nome, executar atividades relacionadas ao serviço, incluindo – mas não se limitando a –, manutenção dos serviços, transporte e entrega de compras realizados por você, gerenciamento de banco de dados, análise de dados e melhoria de funcionalidades incluindo marketing, ou auxiliar-nos na avaliação de como o nosso serviço é usado.
+
+Em relação ao pagamento de suas compras no nosso Website ou Aplicativo nós poderemos compartilhar seus dados de pagamento com empresas processadores de pagamento com os quais trabalhamos. Esse compartilhamento é feito com o fim exclusivo de viabilizar a compra efetivada por você.
+
+Essas empresas ou indivíduos têm acesso à sua informação pessoal apenas para executar atividades solicitadas pelo Trivelum e são obrigados a não usar ou divulgar tais informações para nenhuma outra finalidade.
+
+#### **Agências parceiras do Trivelum**
+
+Ao fazer um pedido em uma agência parceira pelo nosso Website ou Aplicativo, nós podemos compartilhar algumas informações suas com essa agência parceira, bem como fornecer dados a respeito do pedido em específico. As informações compartilhadas podem incluir nome, número de telefone, endereço, CPF (quando for solicitado), entre outras.
+
+#### **Serviços de redes sociais e outros provedores de aplicação**
+
+Nós podemos divulgar informações de sua conta no Trivelum (incluindo informações pessoais) para outros provedores de aplicação ligados à sua conta Trivelum. Nós permitimos que você conecte sua conta de serviços de redes sociais e outros provedores de aplicação aos serviços do Trivelum.
+
+Dessa forma, você poderá postar atividades recentes em nossos serviços nas suas contas de redes sociais. Se você não quiser mais postar suas atividades em sua conta de rede social, poderá simplesmente fazer isso ou alterar suas preferências quando a opção estiver disponível.
+
+#### **Para publicidade e serviços de análise**
+
+Para poder entregar publicidade e promoções adequadas para você, bem como aperfeiçoar nossos serviços, nós também podemos compartilhar as suas informações com empresas especializadas em marketing e análise de dados digitais que ofereçam nível de proteção de dados compatível com esta política de privacidade.
+
+### **Como respondemos a requerimentos legais?**
+
+O Trivelum também poderá compartilhar suas informações com autoridades policiais ou judiciais, autoridades públicas competentes ou outros terceiros, dentro e fora do país em que você reside, caso seja requerido pela legislação aplicável, por decisão judicial e por requisição de autoridades, ou se necessário para responder a processos judiciais ou para participar em eventuais litígios ou disputas de qualquer natureza.
+
+Nestas situações, o Trivelum cooperará com as autoridades competentes na medida em que discricionariamente entenda necessário e adequado em relação a qualquer investigação de ilícitos, infrações a direitos de propriedade industrial ou intelectual, ou outra atividade que seja ilegal ou que possa expor o Trivelum ou seus usuários a qualquer responsabilidade legal ou lhes impor riscos, ressalvadas hipóteses de sigilo de informações constantes na legislação aplicável.
+
+Além disso, o Trivelum se reserva o direito de compartilhar informações sobre seus usuários a terceiros quando houver motivos suficientes para considerar que a atividade de um usuário é suspeita, ilegal ou prejudicial ao Trivelum ou a terceiros.
+
+Este direito será utilizado pelo Trivelum quando considerar apropriado ou necessário para manter a integridade e a segurança do seu serviço, para o cumprimento dos seus Termos e Condições de Uso e Política de Privacidade, e com o intuito de cooperar com a execução e cumprimento da lei, independentemente de existir ou não uma ordem judicial ou administrativa para tanto.
+
+### **Como protegemos suas informações?**
+
+O Trivelum emprega seus melhores esforços para respeitar e proteger suas informações pessoais contra perda, roubo ou qualquer modalidade de uso indevido, bem como contra acesso não autorizado, divulgação, alteração e destruição.
+
+Só tratamos os seus dados mediante alto grau de segurança, implementando as melhores práticas em uso na indústria para a proteção de dados, tais como técnicas de criptografia, monitoração e testes de segurança periódicos. Contudo, não é possível garantir completamente a não ocorrência de interceptações e violações dos sistemas e bases de dados do Trivelum, uma vez que a internet possui sua estrutura de segurança em permanente aperfeiçoamento.
