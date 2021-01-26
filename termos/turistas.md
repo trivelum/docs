@@ -1,12 +1,15 @@
 **Por favor, leia com atenção os termos e condições. Ao se cadastrar no Trivelum você ESTÁ DE ACORDO COM AS CONDIÇÕES E TERMOS da empresa. Note que a recusa destes termo impedirá que você faça cadastro.**
 
+## A quem essa Declaração se aplica?
+Nosso aplicativo e site serão denominados, em conjunto, como Plataforma ou Plataformas. Quando houver menção aos termos "Trivelum", "nós" ou "nossos", estamos nos referindo ao Trivelum; da mesma forma, toda vez que houver menção aos termos "você", "seu", "sua", ou "turista", estamos nos referindo a você; da mesma forma, toda vez que houver menção ao termo "prestadores", estamos nos referindo às agências de turismo, guias autônomos e organizadores (como pessoa física).
+
 # 1. SERVIÇOS OFERECIDOS
 
-**1.1** Este TERMO se aplica para regular o uso do serviço oferecido pelo Trivelum aos TURISTAS, qual seja, possibilitar a escolha, pelos TURISTAS, de AGÊNCIAS cadastradas e, via on-line, efetivar solicitações para aquisição (e busca em domicílio caso necessário) de passeios e viagens fornecidas pelas AGÊNCIAS, de acordo com o disponibilizado, sendo possível, igualmente, aos TURISTAS, a efetivação do pagamento do preço dos ingressos via on-line.
+**1.1** Este TERMO se aplica para regular o uso do serviço oferecido pelo Trivelum aos TURISTAS, qual seja, possibilitar a escolha, pelos TURISTAS, dos PRESTADORES cadastrados e, via on-line, efetivar solicitações para aquisição (e busca em local de escolha caso seja ofertado pelo prestador) de passeios e viagens fornecidas pelos PRESTADORES, de acordo com o disponibilizado, sendo necessário, igualmente, aos TURISTAS, a efetivação do pagamento dos ingressos via on-line.
 
-**1.2** O serviço do Trivelum consiste, portanto, em aproximar, através do nosso aplicativo e site, os TURISTAS e as AGÊNCIAS cadastradas, possibilitando que os TURISTAS encaminhem, às AGÊNCIAS, compra de ingressos de passeios e viagens, bem como, sendo essa a opção das AGÊNCIAS, receber on-line pagamento do preço dos ingressos comprados pelos TURISTAS às AGÊNCIAS.
+**1.2** O serviço do Trivelum consiste, portanto, em aproximar, através do nosso aplicativo e site, os TURISTAS e os PRESTADORES cadastrados, possibilitando que os TURISTAS encaminhem, aos PRESTADORES, compra de ingressos de passeios e viagens, bem como, sendo essa a opção dos PRESTADORES, receber on-line o pagamento dos ingressos adquiridos pelos TURISTAS.
 
-**1.3** Desde logo fica esclarecido ao TURISTA - o qual se declara ciente - que o serviço oferecido pelo Trivelum se relaciona apenas à intermediação (com opção de pagamento on-line) para comercialização de passeios e viagens, não abarcando busca, disponibilização e entrega física (via correios ou outros meios) dos passeios e viagens, sendo esses três itens de responsabilidade integral da AGÊNCIA, a quem deverão ser direcionados quaisquer reclamações acerca dos problemas decorrentes.
+**1.3** Desde logo fica esclarecido ao TURISTA - o qual se declara ciente - que o serviço oferecido pelo Trivelum se relaciona apenas à intermediação (com o pagamento on-line) para comercialização de passeios e viagens, **NÃO NOS RESPONSABILIZAMOS** pelo transporte até o local do passeio ou viagem, pela busca do TURISTA no endereço escolhido, pela disponibilização dos ingressos de forma física (via correios ou outros meios), pela aprovação dos estornos solicitados, sendo esses quatro itens de responsabilidade integral dos PRESTADORES, a quem deverão ser direcionados quaisquer reclamações acerca dos problemas decorrentes.
 
 # 2. CADASTRO
 
@@ -16,21 +19,23 @@
 
 **2.2** Efetuado, com sucesso, o CADASTRO, o TURISTA terá acesso aos serviços por meio de login e senha, dados esses que se compromete a não divulgar a terceiros, ficando sob sua exclusiva responsabilidade qualquer solicitação de serviço que seja feita com o uso de login e senha de sua titularidade.
 
+**2.3** Efetuado a solicitação de exclusão de conta por parte do TURISTA, o TRIVELUM, visando o imediato cumprimento da Lei Geral de Proteção de Dados (lei nº 13.709 de 14 de agosto de 2018), se reserva no direito de revogar imediatamente o acesso do TURISTA aos dados anteriormente cadastrados bem como quaisquer funcionalidades da plataforma, inclusive histórico de ingressos, ingressos ainda não utilizados e solicitações de estorno.
+
 # 3. OBRIGAÇÕES DO TURISTA
 
 **3.1** Efetuado com sucesso o CADASTRO do TURISTA, este se obriga a não divulgar a terceiros login e senha de acesso, nem permitir o uso de tais informações por terceiros, responsabilizando-se pelas consequências do uso de login e senha de sua titularidade.
 
-**3.2** É obrigação do TURISTA fornecer informações cadastrais totalmente verídicas e exatas, responsabilizando-se exclusiva e integralmente (em todas as searas jurídicas) por todo o conteúdo por si informado no item CADASTRO, mantendo atualizado e confirmado o endereço e telefone informados.
+**3.2** É obrigação do TURISTA fornecer informações cadastrais totalmente verídicas e exatas, responsabilizando-se exclusiva e integralmente (em todas as esferas jurídicas) por todo o conteúdo por si informado no item CADASTRO, mantendo atualizado e confirmado o endereço e telefone informados.
 
-**3.3** O TURISTA se obriga, também, a pagar integralmente o preço dos ingressos por si solicitados ou encomendados à AGÊNCIA e efetivamente a si entregues, seja pela modalidade on-line, seja por qualquer outra forma, diretamente ao portador dos ingressos encomendados por meio deste site.
+**3.3** O TURISTA se obriga, também, a pagar integralmente o preço dos ingressos por si solicitados ou encomendados ao PRESTADOR e efetivamente a si disponibilizados pela modalidade on-line.
 
-**3.4** O TURISTA concorda com o uso das informações de avaliações e feedbacks do serviços das AGÊNCIAS e do Trivelum, conforme descrito nos TERMOS DE PRIVACIDADE do Trivelum.
+**3.4** O TURISTA concorda com o uso das informações de avaliações e feedbacks do serviços dos PRESTADORES e do Trivelum, conforme descrito nos TERMOS DE PRIVACIDADE do Trivelum.
 
-**3.5** O TURISTA concorda que deve chegar ao ponto de encontro (ou estar onde informou caso busque localmente) no exato momento do início do passeio ou viagem. Do contrário será impossibilitada o estorno da transação ao TURISTA e o valor pago será destinado normalmente à AGÊNCIA.
+**3.5** O TURISTA concorda que deve chegar ao ponto de encontro (ou estar onde informou caso o PRESTADOR ofereça o serviço de busca) no exato momento do início do passeio ou viagem. Do contrário será impossibilitada o estorno da transação ao TURISTA e o valor pago será destinado normalmente ao PRESTADOR.
 
 # 4. OBRIGAÇÕES DO TRIVELUM
 
-**4.1** Disponibilizar no aplicativo espaço virtual que permita ao TURISTA devidamente cadastrado efetivar pedidos de compra de ingressos anunciados e comercializados pelas AGÊNCIAS e, também, disponibilizar ao TURISTA meios de pagamento do preço dos ingressos on-line.
+**4.1** Disponibilizar no aplicativo espaço virtual que permita ao TURISTA devidamente cadastrado efetivar pedidos de compra de ingressos anunciados e comercializados pelos PRESTADORES e, também, disponibilizar ao TURISTA meios de pagamento dos ingressos on-line.
 
 **4.2** Proteger, por meio de armazenamento em servidores ou quaisquer outros meios magnéticos de alta segurança, a confidencialidade de todas as informações e cadastros relativos aos TURISTAS, assim como valores atinentes às operações financeiras advindas da operacionalização dos serviços previstos no presente TERMO. Contudo, não responderá pela reparação de prejuízos que possam ser derivados de apreensão e cooptação de dados por parte de terceiros que, rompendo os sistemas de segurança, consigam acessar essas informações.
 
@@ -38,7 +43,7 @@
 
 **5.1** O presente TERMO DE USO poderá, a qualquer tempo, ter seu conteúdo, ou parte dele, modificados para adequações e inserções, tudo com vistas ao aprimoramento dos serviços disponibilizados.
 
-**5.2** As novas condições entrarão em vigência assim que sua veiculada no site, sendo possível ao TURISTA manifestar oposição a quaisquer dos termos modificados, desde que o faça por escrito, através do e-mail **suporte@trivelum.com** , o que gerará o cancelamento de seu CADASTRO.
+**5.2** As novas condições entrarão em vigência assim que veiculada no site, sendo possível ao TURISTA manifestar oposição a quaisquer dos termos modificados, desde que o faça por escrito, através do e-mail **suporte@trivelum.com** , o que gerará o cancelamento de seu CADASTRO.
 
 **5.3** O Trivelum não notificará o TURISTA a cada atualização dos TERMOS e será de responsabilidade total do TURISTA a leitura e acompanhamento de tal.
 
@@ -52,6 +57,6 @@
 
 # 8. CANCELAMENTO
 
-**8.1** O TURISTA pode solicitar cancelamento em até 7 (SETE) dias após a compra através do e-mail **suporte@trivelum.com**. Caso a data inicial do passeio ou da viagem seja antes do fim dos 7 dias será impossibilitada a solicitação do cancelamento e estorno após a data e hora de ínicio.
+**8.1** O TURISTA pode solicitar cancelamento em até 7 (SETE) dias após a compra através do aplicativo. Caso a data inicial do passeio ou da viagem seja antes do fim dos 7 dias será impossibilitada a solicitação do cancelamento e estorno após a data e hora de ínicio.
 
-**8.2** Após os 7 (SETE) dias após a compra ou o início do passeio ou viagem somente será aprovado o cancelamento se for comprovada alguma inadimplência por parte da AGÊNCIA.
+**8.2** Fica a critério dos PRESTADORES a avaliação e a confirmação, ou não, do estorno solicitado pelo TURISTA.
