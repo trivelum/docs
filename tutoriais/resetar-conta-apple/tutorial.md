@@ -28,3 +28,7 @@ Para parar de usar o ID Apple com um app, selecione Stop Using Apple ID (Parar d
 Quando você para de usar o ID Apple com um app, a sessão é encerrada no app em seu dispositivo. Da próxima vez que você acessar o app ou o site associado a ele, poderá selecionar a opção "Iniciar sessão com a Apple" para iniciar uma sessão novamente ou criar outra conta.
 
 Se você decidir usar o recurso "Iniciar sessão com a Apple" outra vez, a sessão será iniciada na mesma conta usada anteriormente. Alguns apps permitem criar outra senha para a conta existente para você poder iniciar sessão novamente sem usar o ID Apple.
+
+<p align="center">
+  <img alt="trivelum logo" src="E49-DFF03-656-A-460-A-8-A9-E-D546-D7971-B10_iphone12prographite_portrait.png" width="300px" />
+</p>
