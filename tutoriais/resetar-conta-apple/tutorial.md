@@ -11,7 +11,7 @@ Toque em "Senha e Segurança".
 Toque em Apps Using Your Apple ID (Apps que usam seu ID Apple).
 
 ### No Mac
-Selecione menu Apple  e clique em "Preferências do Sistema".
+Selecione menu Apple e clique em "Preferências do Sistema".
 Clique em ID Apple e selecione "Senha e Segurança".
 Clique em Editar.
 
